@@ -1,4 +1,4 @@
-![logo](https://github.com/AMIasakri/AMIasakri/blob/main/2.png)
+
 <h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">💡 Passionate about tech, web & smart solutions</h3>
 
