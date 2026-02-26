@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">💡 Passionate about tech, web & smart solutions</h3>
 
+<img align="right" alt="amir" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiasakri&label=Profile%20views&color=0e75b6&style=flat" alt="amiasakri" /> </p>
 
 - 🔭 I’m currently working on **Currently working on Telegram bots**
